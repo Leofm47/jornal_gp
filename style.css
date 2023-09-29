@@ -335,3 +335,17 @@ img.img_entrevista{
     border-left: #f0d319 3px solid;
     padding: 7px;
 }
+
+.div_ingles img{
+    width: 40%;
+}
+
+.div_ingles p{
+    line-height: 100%;
+}
+.div_ingles li{
+    margin-left:  1%;
+}
+.div_ingles h2{
+    box-shadow: none;
+}
